@@ -1,0 +1,10 @@
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\bin\Debug\ProductSpecialSubmission.exe.config
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\bin\Debug\ProductSpecialSubmission.exe
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\bin\Debug\ProductSpecialSubmission.pdb
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.csprojAssemblyReference.cache
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.Properties.Resources.resources
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.csproj.GenerateResource.cache
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.csproj.CoreCompileInputs.cache
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.exe
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.pdb
+C:\Users\MARIUMSANAMIM\source\repos\ProductSpecialSubmission\ProductSpecialSubmission\obj\Debug\ProductSpecialSubmission.Views.ProductManagement.resources
